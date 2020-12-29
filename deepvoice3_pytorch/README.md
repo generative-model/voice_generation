@@ -16,7 +16,7 @@ git clone https://github.com/r9y9/deepvoice3_pytorch && cd deepvoice3_pytorch
 pip install -e ".[bin]"
 ```
 ## Preset parameters
-### --preset=<json>
+### --preset= json
 - presets/deepvoice3_ljspeech.json : ljspeech dataset에 맞는 하이퍼파라미터가 세팅되어있습니다.
 
 ## Preprocess
@@ -54,7 +54,7 @@ python synthesis.py ${checkpoint_path} ${text_list.txt} ${output_dir} --preset=<
 output_dir 폴더에 문장마다의 wav파일, spectrogram 이 생성됩니다.
 
 
-##From
+## From
 - [arXiv:1710.07654](https://arxiv.org/abs/1710.07654): Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning.
 - [arXiv:1710.08969](https://arxiv.org/abs/1710.08969): Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks with 
 - https://github.com/r9y9/deepvoice3_pytorch

@@ -1,14 +1,13 @@
 # Voice Generation
 
 ## Deepvoice3 
-[Deepvoice3](https://github.com/generative-model/voice_generation/deepvoice3_pytorch/) : deepvoice3 (pytorch)
-
+[Deepvoice3](https://github.com/generative-model/voice_generation/tree/main/deepvoice3_pytorch/) : deepvoice3 (pytorch)
 
 ## Tacotron2
-[Tacotron2](https://github.com/generative-model/voice_generation/Tacotron2-Wavenet-Korean-TTS/) : tacotron2 (tensorflow)
+[Tacotron2](https://github.com/generative-model/voice_generation/tree/main/Tacotron2-Wavenet-Korean-TTS/) : tacotron2 (tensorflow)
 
 
-##Pretrained models
+## Pretrained models
 
 | URL | Model      | Data     | Hyper paramters                 | Steps |
 |-----|------------|----------|---------------------------------|-------|

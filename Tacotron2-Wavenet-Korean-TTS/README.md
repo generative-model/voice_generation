@@ -20,14 +20,14 @@
 - kss 1,2,3,4 폴더의 wav 파일을 datasets/해당번호/audio 로 이동한 뒤, 
 - 텍스트와 audio파일을 연결해주기 위해 datasets/moon 폴더의 json 파일을 참고하여 transcript.v.1.4.txt 파일을 같은 형식의 json으로 변환하여 각각 폴더에 넣어줍니다.
 
-- 다음과 같은 구조로 세팅됩니다.
-> datasets
-> > 1
-> > > 1-recognition-All.json
-> > > audio
-> > > > 1_0000.wav
-> > > > wav files...
-> > > > ....
+- 다음과 같은 구조로 세팅됩니다.  
+datasets  
+&nbsp;&nbsp;&nbsp;&nbsp;└─ 1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ 1-recognition-All.json  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ audio  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ 1_0000.wav  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ wav files...  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ ...  
 
 ### preprocessing
 ```

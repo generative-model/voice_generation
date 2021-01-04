@@ -19,13 +19,13 @@ pip install pysptk=0.1.18
 ## Example
 - ```.ipynb``` 에서 usage example이 확인 가능합니다.
 - 실행 후 다음과 같은 구조가 됩니다.
-	&nbsp;&nbsp;data
-&nbsp;&nbsp;&nbsp;└─wavs
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─audio_origin
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─audio_syn
-&nbsp;&nbsp;&nbsp;└─mceps_numpy
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─audio_origin
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─audio_syn
+	&nbsp;&nbsp;data<br/>
+&nbsp;&nbsp;&nbsp;└─wavs<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─audio_origin<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─audio_syn<br/>
+&nbsp;&nbsp;&nbsp;└─mceps_numpy<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─audio_origin<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─audio_syn<br/>
 		
  
 ## From

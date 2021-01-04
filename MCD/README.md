@@ -8,7 +8,7 @@
 - pysptk
 
 ## Installation
-Tested on a Python version 3.7 in Windows VM environment
+Tested on a Python version 3.6 in Windows VM environment
 ```
 conda create -n mel-cep-distortion python=3.6
 conda install jupyter

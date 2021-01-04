@@ -2,8 +2,8 @@
 
 ## Pretrained Model
 
-- [tacotron2_324k_step](https://drive.google.com/drive/folders/11WQAgyr8U6xf9oWSk7oSLxVdYFm4ur9j?usp=sharing)
-
+- [tacotron2 130k step](https://drive.google.com/drive/folders/14Lfji2U7UG0NsSyvaYvTlKKsr0L19gTi?usp=sharing) : speaker_id { 0 : jang, 1 : kaggle 1, 2 : kaggle 2, 3 : kaggle 3, 4 : kaggle 4 }
+- [finetuning +30k step](https://drive.google.com/drive/folders/1ox_OqQdXc2vtvWbub70fn_dtqP4Cb6Kw?usp=sharing) : speaker_id { 3 : jang(finetuning) }
 
 ## Requirements
 
